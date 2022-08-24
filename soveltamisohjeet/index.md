@@ -22,7 +22,7 @@ Tämän dokumentin vaatimukset ja suositukset muodostavat maankäyttörajoituste
 ### Käsittelytapahtuman laji
 
 <!--Lisää sisäiset linkit vielä -->
-{% include common/clause_start.html type="req" id="prof-tjs/vaat-maankayttorajoituskasittelytapahtuma" %}
+{% include common/clause_start.html type="req" id="prof-mkr/vaat-maankayttorajoituskasittelytapahtuma" %}
 Luokan AbstraktiKasittelytapahtumanLaji sijaan tulee käyttää tarkentavaa luokkaa MaankayttorajoitustenKasittelytapahtumanLaji.
 {% include common/clause_end.html %}
 
