@@ -5,7 +5,7 @@ description: ""
 id: "dokumentaatio"
 status: "Luonnos"
 ---
-# Loogisen tason tonttijakosuunnitelma
+# Loogisen tason maankäyttörajoitukset
 {:.no_toc}
 
 1. 
