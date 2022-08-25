@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "Kaavatiedot", "EARoot/EA1/EA5.html", "34.png", "", "", "{2F9F11DC-8E1E-4490-A7F1-68A1A2A1A145}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Maankayttorajoitukset", "EARoot/EA2/EA48.html", "34.png", "", "", "{55AFE9AA-BF09-4505-BA97-4A617B4C76AD}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Yhteiset", "EARoot/EA3/EA70.html", "34.png", "", "", "{DEC4FC62-E543-478b-89FB-B752D14E709B}", "Package");
