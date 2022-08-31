@@ -102,18 +102,18 @@ Ilmaisee, että kyseinen maankäyttörajoitus koskee yleiskaavan rakentamisrajoi
 ```arvo```-attribuutin arvona saa esiintyä TekstiArvo, joka kuvaa yleiskaavan toimenpiderajoituksen informatiivisen sisällön tietojärjestelmissä tai rekistereissä.
 {% include common/clause_end.html %}
 
-### Yleiskaavan eritysharkinta-alue
+### Yleiskaavan suunnittelutarvealue
 
 **Koodi:** http://uri.suomi.fi/codelist/rytj/RY_MaankayttorajoituksenLaji/code/06
 
 <!--Lisää sisäiset linkit vielä -->
 {% include common/clause_start.html type="req" id="prof-mkp/vaat-yleiskaavan-erityisharkinta-alue" %}
-Ilmaisee, että kyseinen maankäyttörajoitus koskee yleiskaavan erityisharkinta-alue.
+Ilmaisee, että kyseinen maankäyttörajoitus koskee yleiskaavan suunnittelutarvealue.
 {% include common/clause_end.html %}
 
 <!--Lisää sisäiset linkit vielä -->
 {% include common/clause_start.html type="req" id="prof--mkp/vaat-yleiskaavan-yleiskaavan-erityisharkinta-alue-arvot" %}
-```arvo```-attribuutin arvona saa esiintyä TekstiArvo, joka kuvaa yleiskaavan erityisharkinta-alueen informatiivisen sisällön tietojärjestelmissä tai rekistereissä.
+```arvo```-attribuutin arvona saa esiintyä TekstiArvo, joka kuvaa yleiskaavan suunnittelutarvealueen informatiivisen sisällön tietojärjestelmissä tai rekistereissä.
 {% include common/clause_end.html %}
 
 ### Maakuntakaavan rakentamisrajoitus
@@ -130,16 +130,16 @@ Ilmaisee, että kyseinen maankäyttörajoitus koskee maakuntakaavan rakentamisra
 ```arvo```-attribuutin arvona saa esiintyä TekstiArvo, joka kuvaa maakuntakaavan rakentamisrajoituksen informatiivisen sisällön tietojärjestelmissä tai rekistereissä.
 {% include common/clause_end.html %}
 
-### Rakennusjärjestyksen erityisharkinta-alue
+### Rakennusjärjestyksen suunnittelutarvealue
 
 **Koodi:** http://uri.suomi.fi/codelist/rytj/RY_MaankayttorajoituksenLaji/code/08
 
 <!--Lisää sisäiset linkit vielä -->
 {% include common/clause_start.html type="req" id="prof-mkp/vaat-erityisharkinta-alue" %}
-Ilmaisee, että kyseinen maankäyttörajoitus koskee rakennusjärjestyksen erityisharkinta-aluetta 
+Ilmaisee, että kyseinen maankäyttörajoitus koskee rakennusjärjestyksen suunnittelutarvealuetta 
 {% include common/clause_end.html %}
 
 <!--Lisää sisäiset linkit vielä -->
 {% include common/clause_start.html type="req" id="prof--mkp/vaat-erityisharkinta-alue-arvot" %}
-```arvo```-attribuutin arvona saa esiintyä TekstiArvo, joka kuvaa rakennusjärjestyksen erityisharkinta-alueen informatiivisen sisällön tietojärjestelmissä tai rekistereissä.
+```arvo```-attribuutin arvona saa esiintyä TekstiArvo, joka kuvaa rakennusjärjestyksen suunnittelutarvealueen informatiivisen sisällön tietojärjestelmissä tai rekistereissä.
 {% include common/clause_end.html %}
