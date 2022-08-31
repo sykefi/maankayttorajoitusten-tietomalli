@@ -362,7 +362,7 @@ Maankäyttörajoituksen ```voimaantuloTapa```-attribuutin arvo määrittelee ```
 
 - Arvolla ```Automaattinen maankäyttörajoitus``` pakolliset arvot  ```Asemakaavan rakennuskielto``` ja ```Asemakaavan toimenpiderajoitus```.
 - Arvolla ```Päätöksellä annettu maankäyttörajoitus``` mahdolliset arvot  ```Asemakaavan rakennuskielto```, ```Asemakaavan toimenpiderajoitus```, ```Yleiskaavan rakennuskielto```, ```Yleiskaavan toimenpiderajoitus```, ```Maakuntakaavan rakentamisrajoitus```.
-- Arvolla ```Voimassa olevan maankäyttöpäätöksen rajoitus``` mahdolliset arvot  ```Yleiskaavan rakennuskielto```, ```Yleiskaavan toimenpiderajoitus```, ```Yleiskaavan rakentamisrajoitus```, ```Yleiskaavan erityisharkinta-alue```, ```Rakennusjärjestyksen erityisharkinta-alue```, ```Maakuntakaavan rakentamisrajoitus```.
+- Arvolla ```Voimassa olevan maankäyttöpäätöksen rajoitus``` mahdolliset arvot  ```Yleiskaavan rakennuskielto```, ```Yleiskaavan toimenpiderajoitus```, ```Yleiskaavan rakentamisrajoitus```, ```Yleiskaavan suunnittelutarvealue```, ```Rakennusjärjestyksen suunnittelutarvealue```, ```Maakuntakaavan rakentamisrajoitus```.
 
 {% include common/clause_end.html %}
 
